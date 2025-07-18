@@ -1,6 +1,9 @@
 Attribute VB_Name = "modTextFile_DeleteLine"
-' updated 2016.01.06
+'
 ' created by Chris Staines
+'
+' deletes a number of lines from the beginning of a text file
+' useful when normalizing outdated export filetypes
 
 Public Function TextFile_DeleteLine(strFile As String, lngLineToDelete As Long, _
     Optional strCheckFirstCharactersFor As String, Optional boolSkipLastLine As Boolean)
