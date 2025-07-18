@@ -1,6 +1,8 @@
 Attribute VB_Name = "modFileDialog"
 ' updated 2013.09.10
+'
 ' created by Chris Staines
+'
 ' based on http://msdn.microsoft.com/en-us/library/ff836226.aspx
 '
 ' open a file dialog, using options as requested by the origin function
