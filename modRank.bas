@@ -1,4 +1,5 @@
 Attribute VB_Name = "modRank"
+'
 ' created by Chris Staines
 '
 ' obtain the rank of the array (number of dimensions)
