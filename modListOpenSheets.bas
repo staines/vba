@@ -1,5 +1,9 @@
 Attribute VB_Name = "modListOpenSheets"
+' this is old
 ' created by Chris Staines
+'
+' list all open worksheets in a given cell range
+' useful for allowing a user to see & select a chosen workbook>worksheet for additional manipulation
 
 Public Sub ListOpenSheets(rngOutput As Excel.Range, Optional bookExclude As Excel.Workbook)
 ' provide an in-cell dropdown of open sheets for user selection
