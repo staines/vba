@@ -1,5 +1,6 @@
 Attribute VB_Name = "modValueToText"
-' updated 2011.07.20
+' this is ooooold
+'
 ' created by Chris Staines
 
 Public Sub ValueToText(shtTarget As Worksheet, lngColumn As Long, Optional boolHeader As Boolean)
