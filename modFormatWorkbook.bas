@@ -1,6 +1,9 @@
 Attribute VB_Name = "modFormatWorkbook"
 ' updated 2015.01.15
+'
 ' created by Chris Staines
+'
+' normalize the formatting of all worksheets in a workbook
 
 Public Function FormatWorkbook(strFile As String, Optional boolFormatAsTable As Boolean, Optional boolColumnAutoFit As Boolean) As Boolean
 ' format a given workbook based on filename
