@@ -1,9 +1,10 @@
 Attribute VB_Name = "modModuleUpdating"
 '
-' work-in-progress
+' !!!! work-in-progress !!!!
 ' created by Chris Staines
 '
 ' interact with modules within the vba ide
+' general idea is to update the modules from a remote source so that workbooks don't have to be redeployed for code updates
 '
 ' required references:
 '   Microsoft Visual Basic for Applications Extensibility 5.3 (vbe6ext.olb)
