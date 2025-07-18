@@ -1,6 +1,9 @@
 Attribute VB_Name = "modCopyWorksheetsToWorkbook"
 ' updated 2016-10-31
+'
 ' created by chris staines
+'
+' copy worksheets to a new workbook, with extra options for formulas
 
 Public Function CopyWorksheetsToWorkbook(strWorkbookFile As String, arrSheets As Sheets, _
     Optional boolReplaceFormulae As Boolean, Optional arrReplaceFormulaeSheets As Variant, Optional arrReplaceFormulae As Variant) As Boolean
