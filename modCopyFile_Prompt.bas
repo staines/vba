@@ -1,6 +1,7 @@
 Attribute VB_Name = "modCopyFile_Prompt"
-Option Compare Database
 ' created by Chris Staines
+'
+' copy a file from a file path to another file path
 '
 ' required reference for complete functionality:
 '   Microsoft Scripting Runtime
