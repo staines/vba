@@ -1,6 +1,11 @@
 Attribute VB_Name = "modReadTextFile"
 ' updated 2015.04.02
+'
 ' created by Chris Staines
+'
+' pull text from a given file as a string
+' not advisable for files with multiple lines,
+' but useful to read contents of a control file for security or settings purposes
 '
 ' required reference for complete functionality:
 '   Microsoft Scripting Runtime
