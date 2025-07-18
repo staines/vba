@@ -1,6 +1,9 @@
 Attribute VB_Name = "modFormatBoolean"
-' convert boolean to desired string format
-' 2016-07-18 chris staines
+' updated 2016-07-18
+' 
+' created by Chris Staines
+'
+' convert a boolean to a desired string format
 
 Option Compare Database
 
